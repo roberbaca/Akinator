@@ -1,0 +1,5 @@
+﻿  Juego.cpp
+  main.cpp
+  Generating Code...
+C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Akinator\akinator\akinator\Juego.cpp(82): warning C4715: 'Juego::jugarOtraVez': not all control paths return a value
+  akinator.vcxproj -> C:\Users\Roni_PC\Documents\Visual Studio 2019\Proyectos\Akinator\akinator\Debug\akinator.exe
